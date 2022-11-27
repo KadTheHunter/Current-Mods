@@ -66,8 +66,3 @@ A list of all Mods currently in use in my main Minecraft instance.
 | Xaero's Worldmap | Adds a World Map accessible via hotkey | [1.26.1](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3876752) | |
 | Xanders Sodium Options | Changes the Sodium settings menu to a more vanilla style | [1.0.2](https://modrinth.com/mod/xanders-sodium-options/version/1.0.2) | |
 | YetAnotherConfigLib | Builded-based configuration library | [1.7.1](https://modrinth.com/mod/yacl/version/1.7.1) | Again, I don't know which Mod requires this, but something does or did |
-
-
-
-WIP
-MORE TO BE ADDED
