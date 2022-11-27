@@ -47,7 +47,25 @@ A list of all Mods currently in use in my main Minecraft instance.
 | Organized Tabs | Re-organizes the Creative Inventory to be more logical | [1.0.1](https://modrinth.com/mod/organized-tabs/version/1.0.1_1.19) | Small QoL change, but holy shit is it awesome to have |
 | owo Library | Particles, automatic registry and general utility lib | [0.8.5](https://modrinth.com/mod/owo-lib/version/0.8.5+1.19) | No the name is not related to its purpose, yes it is needed for another mod to function
 | Pick Block Pro | Advanced block picker that allows picking NBT, etc as well | [1.6.12](https://modrinth.com/mod/pick-block-pro/version/1.6.12) | Useful when doing things with Shulkers and Kits in Creative |
-
+| PictureSign | Use signs to display pictures from the web completely client-side | [1.4.1](https://modrinth.com/mod/picturesign/version/1.4.1) | Not as good as using EpsilonBot for Mapart on TotalFreedom, but still sick |
+| ReplayMod | Lets you record in-game | [2.6.8](https://modrinth.com/mod/replaymod/version/1.19-2.6.8) | Requires a special version of Sodium rather than standard Sodium |
+| SignTools | Lots of Sign-related tools and utilities | [1.0.0](https://www.curseforge.com/minecraft/mc-mods/sign-tools/files/3824136) | |
+| Skin Swapper | Allows you to swap skins in-game | [3.1.2](https://modrinth.com/mod/skinswapper/version/3.12) | Extremely useful, seeing as Microjang doesn't have the decency to add such a basic feature |
+| Sneaky | Lets you stay sneaking when opening chests/inventory/menus | [1.1](https://modrinth.com/mod/sneaky/version/1.1) | Honestly more useful on PvP based servers where you may want to open something while staying hidden, but still a good QoL tweak |
+| Sodium | Performance mod for Minecraft | [0.4.2](https://web.archive.org/web/20221116073252/https://www.replaymod.com/download/) | This is a version of Sodium provided by ReplayMod. Normal Sodium won't work with ReplayMod, so either use this version, or get rid of ReplayMod |
+| SongPlayer | Lets you play Songs in MIDI format on Noteblocks | [2.0.0](https://github.com/hhhzzzsss/SongPlayer/releases/tag/v2.0.0) | Made by a member of Total Freedom, it's really good. |
+| Spark | Performance profiler | [1.9.45](https://modrinth.com/mod/spark/version/1.9.45-fabric) | |
+| SquakeFabric | Adds Fortress Forever and Quake style movement into Minecraft | [1.1](https://modrinth.com/mod/squakefabric/version/1.1+1.19) | It's basically Advanced Movement, but better. The two combined overlap a bit but work fine |
+| Symbol Chat | Adds a Symbol/Emoji menu in chat, as well as a Font menu | [0.3.1](https://modrinth.com/mod/symbol-chat/version/0.3.1) | Ever wanted to use that one symbol, but didn't know how to get it? Or ever just wanted to write in Australian (upside down) to annoy your friends? This mod lets you |
+| Technopig | Name any pig 'Technoblade' to give it a crown on it's head | [1.0.1](https://modrinth.com/mod/technomodel/version/v1.0.1) | R.I.P Technoblade |
+| ToolTipFix | Prevents Tooltips from running off screen | [1.1.1](https://modrinth.com/mod/tooltipfix/version/1.1.0-1.19) | This is pretty much a requirement if you plan on working with NBT on items to add custom Lore and stuff |
+| Visible Barriers | Allows you to toggle the visibility of Barriers, Light Blocks, and other Map Making Utilities with a hotkey, as well as adds them into the creative inventory | [1.5.3](https://modrinth.com/mod/visible-barriers/version/1.5.3+1.19.x) | If you use these blocks, or play on a server that allows them, you need this |
+| Weather Changer | Changes the weather client-side | [0.1.0](https://modrinth.com/mod/weather-changer/version/0.1.0) | Really nice for when you want to take a screenshot or recording on a server, but don't have access to the weather commands |
+| World Edit | ...It's World Edit... | [7.2.11-Beta2](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/3903074) | |
+| Xaero's Minimap | Adds a minimap in-game, with customizable position and data | [22.12.0](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3876771) | |
+| Xaero's Worldmap | Adds a World Map accessible via hotkey | [1.26.1](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3876752) | |
+| Xanders Sodium Options | Changes the Sodium settings menu to a more vanilla style | [1.0.2](https://modrinth.com/mod/xanders-sodium-options/version/1.0.2) | |
+| YetAnotherConfigLib | Builded-based configuration library | [1.7.1](https://modrinth.com/mod/yacl/version/1.7.1) | Again, I don't know which Mod requires this, but something does or did |
 
 
 
