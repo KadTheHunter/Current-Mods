@@ -6,7 +6,6 @@ A list of all Mods currently in use in my main Minecraft instance.
 | Mod Name | Description | Download Link | Notes |
 | -------- | ----------- | ------------- | ----- |
 | Accurate Block Placement | Makes placing blocks easier | [1.0.13](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement/files/3825069) | May flag anti-cheat on some servers |
-| Advanced Movement | Adds Quake-like movement tech | [22.08.20hotfix](https://www.curseforge.com/minecraft/mc-mods/advanced-movement/files/3944811) | May flag anti-cheat on some servers |
 | Advancement Plaques | Changes Advancement Toasts into large Plaques at the top of the screen | [1.4.5](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric/files/3847856)| Looks way nicer, but can get annoying, especially if you forget it's added |
 | BetterF3 | Completely overhauls the F3 Menu, and allows tons of customization | [4.0.0](https://modrinth.com/mod/betterf3/version/4.0.0) | Download pages says 1.19.1/1.19.2, but it works on 1.19 properly |
 | BlockMeterFabric | Allows measuring the size of anything in game using the selected tool/hotkey | [1.7-HEAD](https://www.curseforge.com/minecraft/mc-mods/blockmeterfabric/files/3910838) | Slightly redundant if you have WorldEdit and like staring at little pink numbers, otherwise extremely useful |
@@ -20,9 +19,11 @@ A list of all Mods currently in use in my main Minecraft instance.
 | Diagonal Panes | Makes Glass Panes, Stained Glass Panes and Iron Bars work diagonally instead of making weird 90° turns | [0.6.2](https://modrinth.com/mod/diagonal-panes/version/0.6.2) | This one is really personal preference, and could even be labeled slightly cursed |
 | Disguise Heads | Changes your skin to match the head when wearing player heads | [1.0.2](https://modrinth.com/mod/disguiseheads/version/v1.0.2-1.19-fabric) | |
 | Draggable Resource Packs | Lets you drag resource packs into place | [3.0.1](https://www.curseforge.com/minecraft/mc-mods/draggable-resource-packs/files/3935493) | Do you think the default arrow buttons are retarded and slow? Yeah me too. Use this mod instead! |
+| Emotecraft | Adds Emotes into Minecraft | [2.2.5](https://modrinth.com/mod/emotecraft/version/2.2.5-MC1.19.2-fabric) | Very fun, but other players won't see you emoting unless the server has it as well |
 | Fabric API | Essential hooks for modding with Fabric. | [0.58.0](https://modrinth.com/mod/fabric-api/version/0.58.0+1.19) | If you don't already have this, something is wrong |
 | FerriteCore | Reduces Memory Usage | [5.0.0](https://modrinth.com/mod/ferrite-core/version/5.0.0-fabric) | Should be compatible with most performance mods, but always check anyway |
 | ForgeConfigAPIPort | Adds in the Forge Config API | [4.2.6](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric/files/3960064) | Similar to Cloth Config API I don't remember what needed this, only that something did |
+| Hotbars+ | Allows unlimited Hotbar saves, by paginating the vanilla system | [2.0-pre4](https://github.com/VideoGameSmash12/HotbarsPlus/releases/tag/v2.0-pre4) | Incredibly useful for transporting mass amounts of Shulker Kits and Custom Items |
 | Iceberg | Modding library | [1.0.46](https://modrinth.com/mod/iceberg/version/1.0.46) | Needed by a few Mods |
 | ImmediatelyFast | Speeds up immediate rendering mode | [1.0.4](https://modrinth.com/mod/immediatelyfast/version/1.0.4) | TL;DR it helps FPS |
 | Indium | Adds support for the Fabric Rendering API into Sodium | [1.0.7](https://modrinth.com/mod/indium/version/1.0.7+mc1.19) | |
@@ -55,7 +56,7 @@ A list of all Mods currently in use in my main Minecraft instance.
 | Sodium | Performance mod for Minecraft | [0.4.2](https://web.archive.org/web/20221116073252/https://www.replaymod.com/download/) | This is a version of Sodium provided by ReplayMod. Normal Sodium won't work with ReplayMod, so either use this version, or get rid of ReplayMod |
 | SongPlayer | Lets you play Songs in MIDI format on Noteblocks | [2.0.0](https://github.com/hhhzzzsss/SongPlayer/releases/tag/v2.0.0) | Made by a member of Total Freedom, it's really good. |
 | Spark | Performance profiler | [1.9.45](https://modrinth.com/mod/spark/version/1.9.45-fabric) | |
-| SquakeFabric | Adds Fortress Forever and Quake style movement into Minecraft | [1.1](https://modrinth.com/mod/squakefabric/version/1.1+1.19) | It's basically Advanced Movement, but better. The two combined overlap a bit but work fine |
+| SquakeFabric | Adds Quake style movement into Minecraft | [1.1](https://modrinth.com/mod/squakefabric/version/1.1+1.19) | This mod combined with Camera Overhaul is incredibly addicting, and once you get used to it, there's no going back |
 | Symbol Chat | Adds a Symbol/Emoji menu in chat, as well as a Font menu | [0.3.1](https://modrinth.com/mod/symbol-chat/version/0.3.1) | Ever wanted to use that one symbol, but didn't know how to get it? Or ever just wanted to write in Australian (upside down) to annoy your friends? This mod lets you |
 | Technopig | Name any pig 'Technoblade' to give it a crown on it's head | [1.0.1](https://modrinth.com/mod/technomodel/version/v1.0.1) | R.I.P Technoblade |
 | ToolTipFix | Prevents Tooltips from running off screen | [1.1.1](https://modrinth.com/mod/tooltipfix/version/1.1.0-1.19) | This is pretty much a requirement if you plan on working with NBT on items to add custom Lore and stuff |
