@@ -26,6 +26,28 @@ A list of all Mods currently in use in my main Minecraft instance.
 | Iceberg | Modding library | [1.0.46](https://modrinth.com/mod/iceberg/version/1.0.46) | Needed by a few Mods |
 | ImmediatelyFast | Speeds up immediate rendering mode | [1.0.4](https://modrinth.com/mod/immediatelyfast/version/1.0.4) | TL;DR it helps FPS |
 | Indium | Adds support for the Fabric Rendering API into Sodium | [1.0.7](https://modrinth.com/mod/indium/version/1.0.7+mc1.19) | |
+| Iris | Shader mod for Minecraft that works with Sodium | [1.2.6](https://modrinth.com/mod/iris/version/1.19.x-v1.2.6) | I recommend Sildurs Vibrant Shaders for general use |
+| Isometric Renders | Creates high-resolution isometric screenshots of game objects | [0.4.1](https://modrinth.com/mod/isometric-renders/version/0.4.1+1.19) | Insanely cool tool |
+| LazyDFU | Makes the game load faster | [0.1.3](https://modrinth.com/mod/lazydfu/version/0.1.3) | |
+| Litematica | Renders schematics in-game, and allows pasting or easy-placing them | [0.12.0](https://www.curseforge.com/minecraft/mc-mods/litematica/files/3909399) | Incredibly useful, but many guides online are outdated |
+| Log Cleaner | Cleans out old, unused log files | [1.0.0](https://modrinth.com/mod/log-cleaner/version/1.0.0) | |
+| MaLiLib | Library used by several mods, notably Litematica | [0.13.0](https://www.curseforge.com/minecraft/mc-mods/malilib/files/3870801) | |
+| Map-In-Slot | Renders maps when in inventory slots | [1.0.2](https://modrinth.com/mod/map-in-slot/version/1.0.2) | Very very useful when working with mapart |
+| Memory Leak Fix | Fixes random memory leaks that can occur | [0.7.0](https://modrinth.com/mod/memoryleakfix/version/v0.7.0-1.19) | |
+| Meteor Client | Adds tons of utilities and even hacks, including Baritone | [0.5.0](https://meteorclient.com/download) | Adds a shit-ton of things, accesible via the Meteor Client Menu. Ever wanted a hacked client, without having to use a hacked client? This is it. *If the download is for a version after 1.19.0, open an issue in this repo and I'll fix it. Their website doesn't have a way to link to a specific version, so the current version is linked instead* |
+| Minecraft Capes | Allows the use of Custom Capes and Elytra | [12.0.4](https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod/files/3873642) | Requires an account on [minecraftcapes.net](https://minecraftcapes.net/), but is totally worth it. Seen my custom elytra on stream? This is how I got it |
+| Model Dumper | Dump rendered models as .obj files | [1.0.0](https://modrinth.com/mod/modeldumper/version/1.0.0-fabric) | Not very useful for the average player, but pretty cool |
+| Mod Menu | Adds a menu in-game to view your Mods and edit configs where available | [4.0.4](https://modrinth.com/mod/modmenu/version/4.0.4) | I pity the fool who doesn't use this mod |
+| Mod Settings | Adds a menu in-game to edit Mod settings | [1.1.0](https://modrinth.com/mod/mod-settings/version/1.1.0+1.19) | It's literally a stripped down ModMenu, just for Mod Configs/Settings |
+| Nameless Servers | Allows the name field for servers to be blank | [1.0.0](https://modrinth.com/mod/nameless-servers/version/v1.0.0+1.19) | |
+| No Chat Reports | Makes chat unreportable where possible | [1.2.3](https://modrinth.com/mod/no-chat-reports/version/Fabric-1.19-v1.2.3) | Not really needed on 1.19.0, but I still use it anyway |
+| No Creative Drift | Allows toggling the intensity of Drift when flying in Creative Mode | [4.0.4.0](https://www.curseforge.com/minecraft/mc-mods/nocreativedrift/files/3830375) | Sick of sliding a block and a half when you stop flying? Yeah me too. Use this mod, and spare your sanity. Personal preference is to set it to 'Weak' |
+| No More Purple | Allows choosing a custom enchantment glint color | [1.0.1](https://modrinth.com/mod/no-more-purple/version/1.0.1+1.19) | |
+| Notif Mod | Plays a sound when certain things happen in game | [1.3](https://modrinth.com/mod/notifmod/version/1.3) | I personally use it to track Joins/Leaves on servers, but it has a much broader usage range than that |
+| Organized Tabs | Re-organizes the Creative Inventory to be more logical | [1.0.1](https://modrinth.com/mod/organized-tabs/version/1.0.1_1.19) | Small QoL change, but holy shit is it awesome to have |
+| owo Library | Particles, automatic registry and general utility lib | [0.8.5](https://modrinth.com/mod/owo-lib/version/0.8.5+1.19) | No the name is not related to its purpose, yes it is needed for another mod to function
+| Pick Block Pro | Advanced block picker that allows picking NBT, etc as well | [1.6.12](https://modrinth.com/mod/pick-block-pro/version/1.6.12) | Useful when doing things with Shulkers and Kits in Creative |
+
 
 
 
