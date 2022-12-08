@@ -12,7 +12,6 @@ Requires Fabric Loader 0.14.10
 | BlockMeterFabric | Allows measuring the size of anything in game using the selected tool/hotkey | [1.7-HEAD](https://www.curseforge.com/minecraft/mc-mods/blockmeterfabric/files/3910838) | Slightly redundant if you have WorldEdit and like staring at little pink numbers, otherwise extremely useful |
 | Camera Overhaul | Adds more camera rotations | [1.3.1](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul/files/3960293) | Can be slightly disorienting, use at your own risk |
 | Chroma Blocks | Adds chroma key blocks | [2.0.0](https://modrinth.com/mod/chromablocks/version/2.0.0-1.19.2) | Only useable in single player |
-| ChunksFadeIn | Adds fade-in animation to chunk loading | [v1.3.0](https://modrinth.com/mod/chunks-fade-in/version/v1.3.0) | Just a neat little visual tweak |
 | Client Commands | Adds a variety of fun and useful commands that can be used anywhere | [2.7.1](https://modrinth.com/mod/client-commands/version/2.7.1) | |
 | Cloth Config API | Library for Menu Screens | [8.2.88](https://modrinth.com/mod/cloth-config/version/8.2.88+fabric) | I don't remember which Mod(s) requires this, but it is required for something... |
 | Cursor Mod | Adds a highly customizable cursor | [1.3.2](https://modrinth.com/mod/cursormod/version/1.3.2-1.19-20220702) | Very nice when used in conjunction with a Grey or Dark mode texture pack |
