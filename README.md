@@ -2,6 +2,7 @@
 A list of all Mods currently in use in my main Minecraft instance.
 Requires Fabric Loader 0.14.10
 
+If a mods current/linked version is for a version of Minecraft newer than 1.19.0, or if the notes mention Special JARs, check the [Special JARs](https://github.com/KadTheHunter/Current-Mods//Special-JARs/) folder, as it has versions for 1.19 that aren't available elsewhere (because some groups are twats and won't even list old versions-- looking at you Meteor Client), or else are versions modified to work with other mods (such as the special version of Sodium that works with ReplayMod).
 
 
 | Mod Name | Description | Download Link | Notes |
@@ -36,10 +37,10 @@ Requires Fabric Loader 0.14.10
 | MaLiLib | Library used by several mods, notably Litematica | [0.13.0](https://www.curseforge.com/minecraft/mc-mods/malilib/files/3870801) | |
 | Map-In-Slot | Renders maps when in inventory slots | [1.0.2](https://modrinth.com/mod/map-in-slot/version/1.0.2) | Very very useful when working with mapart |
 | Memory Leak Fix | Fixes random memory leaks that can occur | [0.7.0](https://modrinth.com/mod/memoryleakfix/version/v0.7.0-1.19) | |
-| Meteor Client | Adds tons of utilities and even hacks, including Baritone | [0.5.0](https://meteorclient.com/download) | Adds a shit-ton of things, accesible via the Meteor Client Menu. Ever wanted a hacked client, without having to use a hacked client? This is it. *If the download is for a version after 1.19.0, open an issue in this repo and I'll fix it. Their website doesn't have a way to link to a specific version, so the current version is linked instead* |
+| Meteor Client | Adds tons of utilities and even hacks, including Baritone | [0.5.0](https://meteorclient.com/download) | Adds a shit-ton of things, accesible via the Meteor Client Menu. Ever wanted a hacked client, without having to use a hacked client? This is it. *Meteor Client devs are twats who refuse to even list older versions of the Mod anywhere, so I've uploaded my copy of Meteor 0.5.0 for 1.19 into the Special Jars folder in this repo.* |
 | Meteor Rejects Addon | Adds various modules and commands rejected by the main Meteor Client | [0.2](https://github.com/AntiCope/meteor-rejects/releases/tag/latest-1.19) | Mostly useful on Survival worlds, but has some good utilities overall |
 | Meteor Litematica Printer | Adds a module to print Litematica schematics | [1.1](https://github.com/kkllffaa/meteor-litematica-printer/releases/tag/latest) | Not as good as just easy-placing builds, but far superior to other printer mods |
-| Meteor Starscript ID | Adds Item IDs into Starscript | [1.0](https://github.com/RacoonDog/starscript-item-id/releases/tag/latest) | I use a 1.19 version of this, which is basically identical, I just adjusted the `fabric.mod.json` and `gradle.properties` and recompiled it. |
+| Meteor Starscript ID | Adds Item IDs into Starscript | [1.0](https://github.com/RacoonDog/starscript-item-id/releases/tag/latest) | I use a 1.19 version of this, which is basically identical, I just adjusted the `fabric.mod.json` and `gradle.properties` and recompiled it. That version can be found in the Special JARs folder of this repo.|
 | Minecraft Capes | Allows the use of Custom Capes and Elytra | [12.0.4](https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod/files/3873642) | Requires an account on [minecraftcapes.net](https://minecraftcapes.net/), but is totally worth it. Seen my custom elytra on stream? This is how I got it |
 | Model Dumper | Dump rendered models as .obj files | [1.0.0](https://modrinth.com/mod/modeldumper/version/1.0.0-fabric) | Not very useful for the average player, but pretty cool |
 | Mod Menu | Adds a menu in-game to view your Mods and edit configs where available | [4.0.4](https://modrinth.com/mod/modmenu/version/4.0.4) | I pity the fool who doesn't use this mod |
@@ -53,11 +54,11 @@ Requires Fabric Loader 0.14.10
 | owo Library | Particles, automatic registry and general utility lib | [0.8.5](https://modrinth.com/mod/owo-lib/version/0.8.5+1.19) | No the name is not related to its purpose, yes it is needed for another mod to function
 | Pick Block Pro | Advanced block picker that allows picking NBT, etc as well | [1.6.12](https://modrinth.com/mod/pick-block-pro/version/1.6.12) | Useful when doing things with Shulkers and Kits in Creative |
 | PictureSign | Use signs to display pictures from the web completely client-side | [1.4.1](https://modrinth.com/mod/picturesign/version/1.4.1) | Not as good as using EpsilonBot for Mapart on TotalFreedom, but still sick |
-| ReplayMod | Lets you record in-game | [2.6.8](https://modrinth.com/mod/replaymod/version/1.19-2.6.8) | Requires a special version of Sodium rather than standard Sodium |
+| ReplayMod | Lets you record in-game | [2.6.8](https://modrinth.com/mod/replaymod/version/1.19-2.6.8) | Requires a special version of Sodium rather than standard Sodium, the special version  can be found in the Special JARs folder of this repo. |
 | SignTools | Lots of Sign-related tools and utilities | [1.0.0](https://www.curseforge.com/minecraft/mc-mods/sign-tools/files/3824136) | |
 | Skin Swapper | Allows you to swap skins in-game | [3.1.2](https://modrinth.com/mod/skinswapper/version/3.12) | Extremely useful, seeing as Microjang doesn't have the decency to add such a basic feature |
 | Sneaky | Lets you stay sneaking when opening chests/inventory/menus | [1.1](https://modrinth.com/mod/sneaky/version/1.1) | Honestly more useful on PvP based servers where you may want to open something while staying hidden, but still a good QoL tweak |
-| Sodium | Performance mod for Minecraft | [0.4.2](https://web.archive.org/web/20221116073252/https://www.replaymod.com/download/) | This is a version of Sodium provided by ReplayMod. Normal Sodium won't work with ReplayMod, so either use this version, or get rid of ReplayMod |
+| Sodium | Performance mod for Minecraft | [0.4.2](https://modrinth.com/mod/sodium/version/mc1.19-0.4.2) | This is the official release of Sodium for 1.19, but it won't work with ReplayMod. The compatible version can be found on [ReplayMods website](https://www.replaymod.com/download/), or in the Special JARs folder of this repo. |
 | SongPlayer | Lets you play Songs in MIDI format on Noteblocks | [2.0.0](https://github.com/hhhzzzsss/SongPlayer/releases/tag/v2.0.0) | Made by a member of Total Freedom, it's really good. |
 | Spark | Performance profiler | [1.9.45](https://modrinth.com/mod/spark/version/1.9.45-fabric) | |
 | SquakeFabric | Adds Quake style movement into Minecraft | [1.1](https://modrinth.com/mod/squakefabric/version/1.1+1.19) | This mod combined with Camera Overhaul is incredibly addicting, and once you get used to it, there's no going back |
