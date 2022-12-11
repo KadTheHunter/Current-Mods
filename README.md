@@ -2,7 +2,7 @@
 A list of all Mods currently in use in my main Minecraft instance.
 Requires Fabric Loader 0.14.10
 
-If a mods current/linked version is for a version of Minecraft newer than 1.19.0, or if the notes mention Special JARs, check the [Special JARs](https://github.com/KadTheHunter/Current-Mods//Special-JARs/) folder, as it has versions for 1.19 that aren't available elsewhere (because some groups are twats and won't even list old versions-- looking at you Meteor Client), or else are versions modified to work with other mods (such as the special version of Sodium that works with ReplayMod).
+If a mods current/linked version is for a version of Minecraft newer than 1.19.0, or if the notes mention Special JARs, check the [Special JARs](https://github.com/KadTheHunter/Current-Mods/tree/master/Special%20JARs) folder, as it has versions for 1.19 that aren't available elsewhere (because some groups are twats and won't even list old versions-- looking at you Meteor Client), or else are versions modified to work with other mods (such as the special version of Sodium that works with ReplayMod).
 
 
 | Mod Name | Description | Download Link | Notes |
