@@ -33,6 +33,7 @@ If a mods current/linked version is for a version of Minecraft newer than 1.19.0
 | Isometric Renders | Creates high-resolution isometric screenshots of game objects | [0.4.1](https://modrinth.com/mod/isometric-renders/version/0.4.1+1.19) | Insanely cool tool |
 | LazyDFU | Makes the game load faster | [0.1.3](https://modrinth.com/mod/lazydfu/version/0.1.3) | |
 | Litematica | Renders schematics in-game, and allows pasting or easy-placing them | [0.12.1](https://www.curseforge.com/minecraft/mc-mods/litematica/files/4259738) | Incredibly useful, but many guides online are outdated |
+| Litematica NBT Printer | Allows NBT to be printed in Litematica | [1.1.1](https://github.com/Fallen-Breath/litematica-server-paster) | A 1.19 version is located in the Special JARs folder |
 | Log Cleaner | Cleans out old, unused log files | [1.0.0](https://modrinth.com/mod/log-cleaner/version/1.0.0) | |
 | MaLiLib | Library used by several mods, notably Litematica | [0.13.0](https://www.curseforge.com/minecraft/mc-mods/malilib/files/3870801) | |
 | Map-In-Slot | Renders maps when in inventory slots | [1.0.2](https://modrinth.com/mod/map-in-slot/version/1.0.2) | Very very useful when working with mapart |
