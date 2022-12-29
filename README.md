@@ -27,7 +27,7 @@ If a mods current/linked version is for a version of Minecraft newer than 1.19.0
 | ForgeConfigAPIPort | Adds in the Forge Config API | [4.2.6](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric/files/3960064) | Similar to Cloth Config API I don't remember what needed this, only that something did |
 | Hotbars+ | Allows unlimited Hotbar saves, by paginating the vanilla system | [2.0-pre4](https://github.com/VideoGameSmash12/HotbarsPlus/releases/tag/v2.0-pre4) | Incredibly useful for transporting mass amounts of Shulker Kits and Custom Items |
 | Iceberg | Modding library | [1.0.46](https://modrinth.com/mod/iceberg/version/1.0.46) | Needed by a few Mods |
-| ImmediatelyFast | Speeds up immediate rendering mode | [1.1.0](https://modrinth.com/mod/immediatelyfast/version/1.1.0) | TL;DR it helps FPS |
+| ImmediatelyFast | Speeds up immediate rendering mode | [1.1.1](https://modrinth.com/mod/immediatelyfast/version/1.1.1) | TL;DR it helps FPS |
 | Indium | Adds support for the Fabric Rendering API into Sodium | [1.0.7](https://modrinth.com/mod/indium/version/1.0.7+mc1.19) | |
 | Iris | Shader mod for Minecraft that works with Sodium | [1.2.6](https://modrinth.com/mod/iris/version/1.19.x-v1.2.6) | I recommend Sildurs Vibrant Shaders for general use |
 | Isometric Renders | Creates high-resolution isometric screenshots of game objects | [0.4.1](https://modrinth.com/mod/isometric-renders/version/0.4.1+1.19) | Insanely cool tool |
