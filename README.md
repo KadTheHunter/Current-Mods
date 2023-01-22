@@ -29,6 +29,7 @@ If a mods current/linked version is for a version of Minecraft newer than 1.19.0
 | FerriteCore | Reduces Memory Usage | [5.0.0](https://modrinth.com/mod/ferrite-core/version/5.0.0-fabric) | Should be compatible with most performance mods, but always check anyway |
 | ForgeConfigAPIPort | Adds in the Forge Config API | [4.2.6](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric/files/3960064) | Similar to Cloth Config API I don't remember what needed this, only that something did |
 | Hotbars+ | Allows unlimited Hotbar saves, by paginating the vanilla system | [2.0-pre4](https://github.com/VideoGameSmash12/HotbarsPlus/releases/tag/v2.0-pre4) | Incredibly useful for transporting mass amounts of Shulker Kits and Custom Items |
+| IBE Editor | GUI based NBT Editor for modern Minecraft | [2.1.2](https://modrinth.com/mod/ibe-editor/version/2.1.2%2B1.19-fabric) | Please note that while versions up to 2.2.2 are marked as 1.19 compatible, opening the SNBT menu on these versions WILL crash you. 2.1.2 is safe though :) |
 | Iceberg | Modding library | [1.0.46](https://modrinth.com/mod/iceberg/version/1.0.46) | Needed by a few Mods |
 | ImmediatelyFast | Speeds up immediate rendering mode | [1.1.0](https://modrinth.com/mod/immediatelyfast/version/1.1.0) | TL;DR it helps FPS |
 | Indium | Adds support for the Fabric Rendering API into Sodium | [1.0.7](https://modrinth.com/mod/indium/version/1.0.7+mc1.19) | |
