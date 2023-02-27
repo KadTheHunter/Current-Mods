@@ -34,7 +34,7 @@ CIT Resewn | Re-implements MCPatcher's CIT (custom item textures from optifine r
 | MaLiLib | MaLiLib is a library mod containing shared code for masa's client-side mods. | [0.13.0](https://www.curseforge.com/minecraft/mc-mods/malilib/files/4147598) | Required by Litematica |
 | Map-In-Slot | Small mod to make maps render in inventory/hotbar slots | [1.0.2](https://modrinth.com/mod/map-in-slot/version/1.0.2) | Very very useful when working with mapart |
 | Memory Leak Fix | A mod that fixes random memory leaks for both the client and server | [0.7.0](https://modrinth.com/mod/memoryleakfix/version/v0.7.0-1.19.3) | Yes |
-| Meteor Client | Adds tons of utilities and even hacks, including Baritone | [0.5.2-1781](https://meteorclient.com/download) | Ever wanted a hacked client? This is the ultimate one.
+| Meteor Client | Adds tons of utilities and even hacks, including Baritone | [0.5.2-1784](https://meteorclient.com/download) | Ever wanted a hacked client? This is the ultimate one.
 | Meteor Rejects Addon | Adds various modules and commands rejected or overlooked by the main Meteor Client | [0.2](https://github.com/AntiCope/meteor-rejects/releases/tag/latest-1.19.3) | Only a few modules are worth it |
 | Meteor Plus Addon | Adds various modules and commands rejected or overlooked by the main Meteor Client | [0.2](https://github.com/Nekiplay/MeteorPlus/releases/tag/latest-1.19.3) | Only a few modules are worth it |
 Meteor Orion Addon | Adds various modules and commands rejected or overlooked by the main Meteor Client | [0.1](https://github.com/AntiCope/orion/releases/tag/latest-1.19.2) | Page says 1.19.2 but it's really 1.19.3 |
@@ -55,8 +55,19 @@ Meteor Orion Addon | Adds various modules and commands rejected or overlooked by
 | SquakeFabric | Adds Quake/HL movement mechanics to Minecraft | [1.1](https://modrinth.com/mod/squakefabric/version/1.1+1.19) | This mod combined with Camera Overhaul is incredibly addicting, and once you get used to it, there's no going back |
 | Symbol Chat | A client side mod that adds a symbol/emoji menu as well as writing in different unicode fonts. | [0.6.1](https://modrinth.com/mod/symbol-chat/version/0.6.1) | Useful for decorating signs and names |
 | Technopig | Name any pig 'Technoblade' to give it a crown on it's head | [1.0.3](https://modrinth.com/mod/technomodel/version/v1.0.3) | R.I.P Technoblade |
+| Visible Barriers | Making barriers visible and other mapmaking help. | [1.7.0](https://modrinth.com/mod/visible-barriers/version/1.7.0) | If you use these blocks, or play on a server that allows them, you need this Mod |
 | World Edit | A Minecraft Map Editor... that runs in-game! | [7.2.13](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/4162208) | Yes |
 | Xaero's Minimap | Adds a minimap in-game, with customizable position and data | [23.1.0](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4381126) | Yes |
 | Xaero's Worldmap | Adds a World Map accessible via hotkey | [1.28.9](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4381148) | Yes |
 | Xander's Sodium Options | Changes the Sodium settings menu to a more vanilla style | [1.1.0](https://modrinth.com/mod/xanders-sodium-options/version/1.1.0) | Sodium does wonders for Minecraft's performance, but dear fucking god is its menu horrible. This mod fixes that. |
 | YetAnotherConfigLib | A builder-based configuration library for Minecraft. | [2.2.0](https://modrinth.com/mod/yacl/version/2.2.0) | Schrodinger's Library. A mod in this list may or may not use this Library, you will only know when you don't add it. You also may not know then, as the mod that needs it may not explicitly state that it needs it. Enjoy :) |
+
+
+
+# Current Resource Packs
+This is a bonus section, with links to resource packs I always have on, and Shaders I recommend
+
+| Pack Name | Description | Download Link | Notes |
+| --------- | ----------- | ------------- | ----- |
+| Default Dark Mode | The Dark Mode Resource Pack for Minecraft: Java Edition | [1.4.0](https://modrinth.com/resourcepack/default-dark-mode/version/v1.4.0-1.19.3) | Default GUIs aren't even that bright, but this is very nice to use.
+| Capitalization Fixes | Make your text perfect! Fixes grammatical (and other) issues in-game and in GUIs. | [2.18](https://modrinth.com/resourcepack/capitalisation-fixes/version/v2.18-1.19.3) | Not sure I've even noticed the effect of this one, but still cool |
